@@ -9,8 +9,24 @@
   <h4 align="left">Full Stack Web Developer in training, enthusiastic about design, passionate about web design, knowledgeable about these languages and tools, finally, I like to learn a lot, and I want to deepen in each language.</h4>
 </div>
 
+<div style="display: inline_block" align="center"><br>
+  <h1>Languages and Tools:</h1>
+  <img align="left" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="left" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="left" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="left" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="left" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="left" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
+</br>
+</br>
 
-<h2 bg-[#8149A6]> My Stats <img src="https://media2.giphy.com/media/fRJm7J9ixDj2eLW0nh/giphy.gif?cid=790b7611fvtsjvjtpql6ysyrkpt32unin86hjwipi35fa0tk&rid=giphy.gif&ct=s"  align=""  width="40"></h2>
+<h1 bg-[#8149A6] align="center"> My Stats <img src="https://media2.giphy.com/media/fRJm7J9ixDj2eLW0nh/giphy.gif?cid=790b7611fvtsjvjtpql6ysyrkpt32unin86hjwipi35fa0tk&rid=giphy.gif&ct=s"    width="40"></h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight)](https://git.io/streak-stats)
 
@@ -19,25 +35,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27Paola&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-<img align='left' src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qbx0z5w44jq78vdrb48kzjyr0ihdjr7b1bo7nhij&rid=giphy.gif&ct=g" width="200" height="250">
-
-</br>
-
-<div style="display: inline_block" align="center"><br>
-  <h1>Languages and Tools:</h1>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  </br> </br>
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
 
 <br/>
 
