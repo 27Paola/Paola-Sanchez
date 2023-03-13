@@ -28,7 +28,7 @@
 
 
 
-<h2 bg-[#8149A6]> My Stats <img src="https://media2.giphy.com/media/fRJm7J9ixDj2eLW0nh/giphy_s.gif?cid=790b7611fvtsjvjtpql6ysyrkpt32unin86hjwipi35fa0tk&rid=giphy_s.gif&ct=s"  align=""  width="40"></h2>
+<h2 bg-[#8149A6]> My Stats <img src="https://media2.giphy.com/media/fRJm7J9ixDj2eLW0nh/giphy.gif?cid=790b7611fvtsjvjtpql6ysyrkpt32unin86hjwipi35fa0tk&rid=giphy.gif&ct=s"  align=""  width="40"></h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight)](https://git.io/streak-stats)
 
