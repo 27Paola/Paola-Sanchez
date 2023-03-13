@@ -27,14 +27,14 @@
   <a href="www.linkedin.com/in/paola-sanchez-vargas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=Violet" target="_blank"></a>
   <a href="https://web.telegram.org/z/#-1582685558" target="blank"><img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
-<img align='right' src="https://github.com/SoffiaSanchezz/Img/blob/main/assets/image-removebg-preview%20(12).png?raw=true" width="330">
+<img align='right' src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qbx0z5w44jq78vdrb48kzjyr0ihdjr7b1bo7nhij&rid=giphy.gif&ct=g" width="230" align="center">
 </div>  
 
 
 <h2 bg-[#8149A6]> My Stats <img src="https://media2.giphy.com/media/fRJm7J9ixDj2eLW0nh/giphy_s.gif?cid=790b7611fvtsjvjtpql6ysyrkpt32unin86hjwipi35fa0tk&rid=giphy_s.gif&ct=s" width="40"></h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=27Paola&theme=buefy-dark&border_radius=)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=27Paola&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=27Paola&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27Paola&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
