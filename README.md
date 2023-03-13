@@ -36,11 +36,9 @@
 
 </br>
 
-<br/>
-
 <div style="display: inline_block" align="center"> 
   <h1 align="center" >Connect with me: <img src="https://i.giphy.com/media/3KRRozcNsYfp85HV1v/200w.webp" width="40"></h1>
   <a href="www.linkedin.com/in/paola-sanchez-vargas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=Violet" target="_blank"></a>
   <a href="https://web.telegram.org/z/#-1582685558" target="blank"><img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
-</div>  
+</div> 
