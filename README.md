@@ -5,7 +5,7 @@
 
   <img
        width="400" align="right" src="https://github.com/SoffiaSanchezz/Img/blob/main/Fondo%20de%20Pantalla%20para%20PC%20Organizador%20Notas%20Morado.gif?raw=true" />
-      <h1> Hi, I'm Paola Sanchez <img  src="https://i.giphy.com/media/j1soPQE95y0eXhMwKT/200w.webp" width="40"></h1>
+      <h1> ¡No progress without effort! <img  src="https://i.giphy.com/media/j1soPQE95y0eXhMwKT/200w.webp" width="40"></h1>
   <h4 align="left">Full Stack Web Developer in training, enthusiastic about design, passionate about web design, knowledgeable about these languages and tools, finally, I like to learn a lot, and I want to deepen in each language.</h4>
 </div>
 
