@@ -6,7 +6,7 @@
   <img
        width="400" align="right" src="https://github.com/SoffiaSanchezz/Img/blob/main/Fondo%20de%20Pantalla%20para%20PC%20Organizador%20Notas%20Morado.gif?raw=true" />
       <h1> ¡No progress without effort! <img  src="https://i.giphy.com/media/j1soPQE95y0eXhMwKT/200w.webp" width="40"></h1>
-  <h4 align="left">Full Stack Web Developer in training, enthusiastic about design, passionate about web design, knowledgeable about these languages and tools, finally, I like to learn a lot, and I want to deepen in each language.</h4>
+  <h4 align="left">Full Stack Web Developer in training, enthusiastic about User Experience and passionate about web design, knowledgeable about these languages and tools, finally, I like to learn a lot, and I want to deepen in each language.</h4>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -27,12 +27,15 @@
 </br>
 
 <h1 bg-[#8149A6] align="center"> My Stats <img src="https://media2.giphy.com/media/fRJm7J9ixDj2eLW0nh/giphy.gif?cid=790b7611fvtsjvjtpql6ysyrkpt32unin86hjwipi35fa0tk&rid=giphy.gif&ct=s"    width="40"></h1>
-
+<br>
+<div style="" align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=27Paola&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27Paola&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 </br>
 
