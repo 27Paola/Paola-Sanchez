@@ -33,7 +33,7 @@
   <a href="https://github.com/27Paola/27Paola.git">
     <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=27Paola&show_icons=true&theme=tokyonight" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Paola&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Paola&theme=tokyonight" />
   </a>
 </div>
 
