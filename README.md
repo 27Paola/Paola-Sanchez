@@ -28,18 +28,15 @@
 
 <h1 bg-[#8149A6] align="center"> My Stats <img src="https://media2.giphy.com/media/fRJm7J9ixDj2eLW0nh/giphy.gif?cid=790b7611fvtsjvjtpql6ysyrkpt32unin86hjwipi35fa0tk&rid=giphy.gif&ct=s"    width="40"></h1>
 <br>
-<div style="" align="center">
   
-  <div>
+  <div align="center">
   <a href="https://github.com/27Paola/27Paola.git">
-    <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight" />
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=27Paola&show_icons=true&theme=tokyonight" />
+    <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=27Paola&show_icons=true&theme=tokyonight" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Paola&theme=tokyonight" />
   </a>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27Paola&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 </br>
 
