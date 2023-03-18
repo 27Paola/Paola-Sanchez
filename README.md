@@ -30,9 +30,13 @@
 <br>
 <div style="" align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight)](https://git.io/streak-stats)
+  <div>
+  <a href="https://github.com/27Paola/27Paola.git">
+    <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=27Paola&theme=tokyonight" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=27Paola&show_icons=true&theme=tokyonight" />
+  </a>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=27Paola&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27Paola&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
