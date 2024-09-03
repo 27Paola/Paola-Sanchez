@@ -6,7 +6,7 @@
   <img
        width="400" align="right" src="https://github.com/SoffiaSanchezz/Img/blob/main/Fondo%20de%20Pantalla%20para%20PC%20Organizador%20Notas%20Morado.gif?raw=true" />
       <h1> ¡No progress without effort! <img  src="https://i.giphy.com/media/j1soPQE95y0eXhMwKT/200w.webp" width="40"></h1>
-  <h4 align="left">Full Stack Web Developer in training, enthusiastic about User Experience and passionate about web design, knowledgeable about these languages and tools, finally, I like to learn a lot, and I want to deepen in each language.</h4>
+  <h4 align="left">Full-Stack Developer passionate about creating innovative tech solutions. With experience in SCRUM methodology, I thrive on tackling challenges in real-world, dynamic projects. My focus on effective collaboration and attention to detail ensures high-quality results. Always seeking new opportunities to learn and grow in the world of software development.</h4>
 </div>
 
 <div style="display: inline_block" align="center"><br>
