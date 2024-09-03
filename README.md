@@ -20,8 +20,9 @@
   <img align="left" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="left" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="left" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="left" alt="TailwindCSS" height="40" width="50" src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png">
   <img align="left" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="left" alt="GraphQL" height="40" width="50" src="https://p7.hiclipart.com/preview/292/912/891/graphql-query-language-representational-state-transfer-application-programming-interface-github.jpg">
 </div>
 </br>
 </br>
